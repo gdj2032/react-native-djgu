@@ -1,2 +1,6 @@
+
 # react-native-djgu
-react-native 组件
+
+## Getting started
+
+`$ npm install react-native-djgu --save`
